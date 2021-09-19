@@ -4,7 +4,7 @@ import java.util.Arrays;
  * A WordGram represents a sequence of strings
  * just as a String represents a sequence of characters
  *
- * @author Damilola Adewale
+ * @author Damilola Adewal
  *
  */
 public class WordGram {
